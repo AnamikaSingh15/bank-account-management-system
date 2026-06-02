@@ -4,6 +4,12 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Bank Account Management System");
+        BankAccount account = new BankAccount();
+
+        account.AccountHolder = "Anamika";
+
+        account.Deposit(5000);
+
+        account.Display();
     }
 }

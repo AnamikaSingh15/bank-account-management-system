@@ -12,3 +12,4 @@ C:\Users\KIIT0001\Desktop\Bank-account-management-system\bank-account-management
 C:\Users\KIIT0001\Desktop\Bank-account-management-system\bank-account-management-system\BankAccountManagementSystem\obj\Debug\net11.0\BankAccountManagementSystem.pdb
 C:\Users\KIIT0001\Desktop\Bank-account-management-system\bank-account-management-system\BankAccountManagementSystem\obj\Debug\net11.0\BankAccountManagementSystem.genruntimeconfig.cache
 C:\Users\KIIT0001\Desktop\Bank-account-management-system\bank-account-management-system\BankAccountManagementSystem\obj\Debug\net11.0\ref\BankAccountManagementSystem.dll
+C:\Users\KIIT0001\Desktop\Bank-account-management-system\bank-account-management-system\BankAccountManagementSystem\obj\Debug\net11.0\BankAccountManagementSystem.sourcelink.json
